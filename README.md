@@ -8,8 +8,6 @@
 
 🌐 [GitHub Profile](https://github.com/1biswarup2) &emsp; 🌐 [LinkedIn Profile](https://www.linkedin.com/in/biswarup-saha-72a3321a6/) &emsp; 🌐 [Portfolio Site](https://stupendous-moonbeam-873cef.netlify.app/)
 
-<!-- Add a class to this div for animation -->
-<div class="animated-section">
 
 ## Education
 
@@ -94,5 +92,5 @@
 2. Achieved AIR 1420 in GATE 2022 (in the pre-final year of B.Tech).
 3. Selected for MS by Research Programme under HTRA Scheme at IIT Madras.
 4. 6 star/Gold-badge in Hackerrank (160+ questions solved) in problem-solving, 4-star in Python; 300+ questions solved at Coding Ninjas (Ninja domiantor).
-</style>
+
 
