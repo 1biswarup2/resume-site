@@ -1,8 +1,8 @@
 # resume-site
                                                                                               Biswarup Saha                                                                                                                                                                     
-                                                                                            Technology enthusiast                                                                                                                                                                                           Master of Technology(pursuing)                                                                                                                                                                                 Indian Institute of Technology,Kharagpur                                                                                                                                             
-
-                                                                                                                                                                                          Portfolio site                                                                                                                                                             
+                                                                                            Technology enthusiast                                                                                                                                                                                           
+                                                                                        Master of Technology(pursuing)                                                                                                                                                                                 
+                                                                                      Indian Institute of Technology,Kharagpur                                                                                                                                                                                   
 # Education
 
 1•Indian Institute of Technology, Kharagpur                 2023-present
