@@ -1,21 +1,45 @@
+<p align="center">
+  <img src="https://github.com/1biswarup2/resume-site/blob/41b4c8e571fc154c7a25531521fdc3deca2c7d46/1692082556927.jpg" alt="Profile Picture" width="150" height="150">
+</p>
+
 # Biswarup Saha
 
-📞 +91-8637519183
-✉️ biswarup.saha@kgpian.iitkgp.ac.in
-🌐 [GitHub Profile](https://github.com/1biswarup2)
-🌐 [LinkedIn Profile](https://www.linkedin.com/in/biswarup-saha-72a3321a6/)
-🌐 [Portfolio Site](https://stupendous-moonbeam-873cef.netlify.app/)
+📞 +91-8637519183 &emsp; ✉️ biswarup.saha@kgpian.iitkgp.ac.in
+
+🌐 [GitHub Profile](https://github.com/1biswarup2) &emsp; 🌐 [LinkedIn Profile](https://www.linkedin.com/in/biswarup-saha-72a3321a6/) &emsp; 🌐 [Portfolio Site](https://stupendous-moonbeam-873cef.netlify.app/)
+
+<!-- Add a class to this div for animation -->
+<div class="animated-section">
 
 ## Education
 
 - **Indian Institute of Technology, Kharagpur**
   - Master of Technology (Computer Science and Engineering)
   - 2023 - Present
-
+  - CGPA: NA
 - **Jaypee Institute of Information Technology, Noida**
   - Bachelor of Technology (Computer Science and Engineering)
   - 2019 - 2023
   - CGPA: 7.7
+
+</div>
+
+<!-- Add CSS animation keyframes -->
+<style>
+.animated-section {
+  animation-name: fadeIn;
+  animation-duration: 2s;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+</style>
 
 ## Personal Projects
 
@@ -69,5 +93,6 @@
 1. Achieved AIR 543 (approximately 99.4 percentile) in GATE 2023 (in the final year of B.Tech).
 2. Achieved AIR 1420 in GATE 2022 (in the pre-final year of B.Tech).
 3. Selected for MS by Research Programme under HTRA Scheme at IIT Madras.
-4. 6 star/Gold-badge in Hackerrank (160+ questions solved) in problem-solving, 4-star in Python; 300+ questions solved at Coding Ninjas (Ninja).
+4. 6 star/Gold-badge in Hackerrank (160+ questions solved) in problem-solving, 4-star in Python; 300+ questions solved at Coding Ninjas (Ninja domiantor).
+</style>
 
